@@ -16,7 +16,7 @@ A modern and responsive headphone product landing page built using HTML, CSS, an
 - style.css
 - images/ 
 ## Live Demo 
-(Add your GitHub Pages or Vercel link here) 
+(https://snjugwd.github.io/Modern-landing-page/) 
 
 ## Author 
 Sanjan GR   W
